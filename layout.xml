@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/gridLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="80"
+    android:rowCount="80"
+    android:orientation="horizontal"
+    android:background="#2e1a47" />
+    <!--
+    #243b2e
+    #2e1a47
+    #5a3e87
+    #4a7358
+    #0d0d0d
+    -->

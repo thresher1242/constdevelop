@@ -13,7 +13,7 @@ class Donation {
                 realAmount < 100000 -> "레시피 복구"
                 else ->"인벤토리 전체 삭제"
             }
-
+            
         }
 
         fun donate(): Int {
@@ -25,10 +25,11 @@ class Donation {
                 println("올바른 수를 입력하세요")
                 0
             }
-
+            
         }
-
+        
     }
+    
 }
 
 fun main() {
@@ -39,4 +40,5 @@ fun main() {
 
         println("후원! 후원 금액: $amount \"$give\"")
     }
+    
 }

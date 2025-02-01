@@ -1,6 +1,5 @@
 // 2025 02-01
 // 계정 만들기
-
 class Account {
 
     companion object {

@@ -1,5 +1,7 @@
 // 2025 02-01
 // 계정 만들기
+
+// println -> system out으로 대체
 class Account {
 
     companion object {

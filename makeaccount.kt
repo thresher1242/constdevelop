@@ -61,7 +61,7 @@ class Account {
             return true
         }
 
-        fun makeAcc() {
+        fun makeAcc()a {
             var passwordValid = false
             while (!passwordValid) {
                 passwordValid = password()
@@ -73,9 +73,9 @@ class Account {
             }
 
         }
-        
+        fun profile() {
+            
     }
-    
 }
 
 fun main() {
